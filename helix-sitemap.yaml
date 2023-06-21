@@ -2,7 +2,7 @@ version: 1
 
 sitemaps:
   website:
-    origin: https://miloacademy.adobe.com
+    origin: https://main--gmirijan--gmirijan.hlx.page
     lastmod: YYYY-MM-DD
     languages:
       default:
